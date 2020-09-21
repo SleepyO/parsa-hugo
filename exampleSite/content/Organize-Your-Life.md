@@ -3,7 +3,7 @@ title: ISSUE 2 - Creating a better relationship with your dog.
 date: 2020-07-12T20:13:00+00:00
 description: This is meta description
 type: featured
-image: images/featured-post/post-1.jpg
+image: "/images/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984-s3-amazonaws-com_public_images_e38570d2-19fc-496d-adc8-b8de36af4e55_1280x960.jpeg"
 categories:
 - Valuable Idea
 tags:
