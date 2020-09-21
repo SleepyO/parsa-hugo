@@ -27,7 +27,7 @@ google_analitycs_id = "Your ID"
 home = "Home"
 layout = "1"
 logo = "images/logo1.png"
-mobile = "+ (01) 1234567"
+mobile = "(01) 1234567"
 preloader = true
 search = true
 [params.instafeed]
