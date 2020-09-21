@@ -1,6 +1,6 @@
 ---
 title: ISSUE 6 - Over socialising your dog.
-date: 2019-05-14T14:46:10.000+06:00
+date: 2020-08-16T16:33:00+00:00
 description: This is meta description
 type: featured
 image: "/images/unnamed_1_504x589.jpg"
