@@ -15,19 +15,19 @@ weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-address = "6 rip carl Avenue CA 90733"
+address = "Address goes Here"
 author = "Themefisher"
 author_image = "images/banner-img.png"
 bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
 contact_form_action = "#"
-copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
+copyright = "Copyright &copy; 2020 "
 description = "This is meta description"
-email = "exmaple@ymail.com"
+email = "goodboydogtraining@substack.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 layout = "1"
-logo = "images/logo.png"
-mobile = "+90 000 333 22"
+logo = "images/logo1.png"
+mobile = "+ (01) 1234567"
 preloader = true
 search = true
 [params.instafeed]
@@ -71,5 +71,5 @@ icon = "ti-twitter-alt"
 URL = "#"
 icon = "ti-linkedin"
 [[params.social]]
-URL = "#"
-icon = "ti-github"
+URL = "#https://www.instagram.com/goodboy_dogtraining/?hl=en"
+icon = "ti-instagram"
