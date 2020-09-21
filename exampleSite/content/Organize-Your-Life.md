@@ -1,6 +1,6 @@
 ---
-title: Organize Your Life With 10 Simple rule
-date: 2019-05-14T14:46:10.000+06:00
+title: ISSUE 2 - Creating a better relationship with your dog.
+date: 2020-07-12T20:13:00+00:00
 description: This is meta description
 type: featured
 image: images/featured-post/post-1.jpg
