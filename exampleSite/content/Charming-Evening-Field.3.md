@@ -5,9 +5,7 @@ description: This is meta description
 type: post
 image: images/masonary-post/post-4.jpg
 categories:
-- Food
-tags:
-- Photos
-- Food
+- Category
+tags: []
 
 ---
