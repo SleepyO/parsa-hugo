@@ -5,10 +5,8 @@ description: This is meta description
 type: featured
 image: "/images/unnamed_504x589.jpg"
 categories:
-- Philosophy
-tags:
-- Philosophy
-- Photos
+- Category
+tags: []
 
 ---
 We all want a calm dog. Well, the majority of us. So what makes a dog calm, how can we achieve this and most importantly, can training make your dog chill?
