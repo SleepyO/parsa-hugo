@@ -31,7 +31,7 @@ mobile = "(01) 1234567"
 preloader = true
 search = true
 [params.instafeed]
-access_token = "IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn"
+access_token = "IGQVJYZAFZAVN1VveWdGNUFmYk5SRTM1QVd5VUp2eG9USEE3eXl5Q0llc1FqREp6VWN3NnVyMUJiRkZAsZAG42YUUySmVKOFdtV1pDY0d5SlFUN09rZAEV6bnUtMnFnQTRTTV9hbGd6NVNDaFcxOG83VlpLNwZDZD"
 enable = true
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
