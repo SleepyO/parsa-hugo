@@ -5,10 +5,8 @@ description: This is meta description
 type: featured
 image: "/images/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984-s3-amazonaws-com_public_images_e38570d2-19fc-496d-adc8-b8de36af4e55_1280x960_1_504x589.jpeg"
 categories:
-- Valuable Idea
-tags:
-- Photos
-- Finance
+- Category
+tags: []
 
 ---
 Relationship building is often over looked when it comes to dog training for the every day pet owner. However, as a trainer, I can’t stress enough how important the relationship you have with your dog is. If you have a solid foundation with your dog, everything else becomes easy. Building the relationship is hard, maintaining it is easier.
