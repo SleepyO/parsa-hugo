@@ -5,9 +5,8 @@ description: This is meta description
 type: featured
 image: "/images/unnamed_1_504x589.jpg"
 categories:
-- Fashion
-tags:
-- Fashion
+- Category
+tags: []
 
 ---
 When someone gets a puppy, the aim for that puppy is to grow into a well mannered, well rounded, respectful member of society. We want a dog we can take anywhere, and is good in all situations. We want a dog thats good with other dogs, thats good with people, thats good with noises, places, and things. So how do we achieve this, and can we do too much of this type of thing with our pups?
