@@ -16,7 +16,7 @@ weight = 3
 home = ["HTML", "RSS", "JSON"]
 [params]
 address = "Address goes Here"
-author = "Themefisher"
+author = "GBDT"
 author_image = "images/banner-img.png"
 bio = "Short Bio goes here"
 contact_form_action = "#"
