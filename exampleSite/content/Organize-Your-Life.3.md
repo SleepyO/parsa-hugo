@@ -5,10 +5,8 @@ description: This is meta description
 type: featured
 image: "/images/unnamed_2_504x589.jpg"
 categories:
-- Article
-tags:
-- Photos
-- Article
+- Category
+tags: []
 
 ---
 I used to have my dogs off the lead everywhere. I’m guilty. I used to walk down busy streets and in busy parks and just let my dogs run free. It’s great to watch your dogs run around and play, but is it necessary, and more importantly is it responsible?
